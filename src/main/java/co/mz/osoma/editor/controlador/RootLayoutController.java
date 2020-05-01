@@ -1,6 +1,5 @@
 package co.mz.osoma.editor.controlador;
 
-import co.mz.osoma.editor.modelo.Exam;
 import co.mz.osoma.editor.modelo.QuestionMultiChoice;
 import co.mz.osoma.editor.modelo.RootObject;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -9,7 +8,6 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Alert;
 
-import java.io.Serializable;
 import java.net.URL;
 import java.util.ResourceBundle;
 

@@ -2,110 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3372d9b-354d-4581-9685-b34bb3bacd92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootLayoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootLayoutController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Exam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/MainGUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/MainGUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/ExamPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/ExamPaneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/MainGUIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/MainGUIController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootLayoutController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootLayoutController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/modelo/Exam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/modelo/Exam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/vista/MainGUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/vista/MainGUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootPaneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/service/MyTreeCell$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/service/MyTreeCell$1.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1524210071">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="fxml" value="7" />
-          <entry key="gitignore" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="25" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="25" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="fxml" value="2" />
-          <entry key="gitignore" value="2" />
-          <entry key="java" value="1561" />
-          <entry key="xml" value="38" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1561" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="40" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootLayoutController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="34" column="195" selection-start-line="34" selection-start-column="195" selection-end-line="34" selection-end-column="195" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Exam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/ExamPane.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-          <provider editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/MainGUI.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-          <provider editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -115,126 +25,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/AddChoiceController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/PaneFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/RootObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Question.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/MyTreeCell.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/ExamPaneController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/RootLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/MainGUIController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/MainApp.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/MainGUI.fxml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Exam.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/ExamPane.fxml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootLayoutController.java" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="593" />
-    <option name="y" value="115" />
-    <option name="width" value="697" />
-    <option name="height" value="728" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
+  <component name="ProjectId" id="1bBMQZhXGk97Q7TQDu1errI2eun" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-              <item name="controlador" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="editor" type="462c0819:PsiDirectoryNode" />
-              <item name="modelo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OsomaEditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="vista" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OsomaEditor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587553037163" />
@@ -250,22 +62,10 @@
       <recent name="C:\Users\user\IdeaProjects\OsomaEditor\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.mz.osoma.editor.MainApp" />
-      <module name="OsomaEditor" />
+      <module name="osoma-editor" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="co.mz.osoma.editor.*" />
@@ -300,203 +100,50 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="22393000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4077156" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" weight="0.32980332" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.83797055" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.66448444" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/vista/des.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/AddChoiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/AddQuestionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/des.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/PaneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1090">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootPaneController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/RootObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1625">
-          <caret line="106" column="13" lean-forward="true" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Choice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/QuestionMultiChoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/MyTreeCell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/ExamPaneController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="72" column="66" lean-forward="true" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/MainGUIController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1684">
-          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OsomaEditor.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/RootPane.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/RootLayout.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/modelo/Exam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/MainGUI.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/co/mz/osoma/editor/vista/ExamPane.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/controlador/RootLayoutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="34" column="195" selection-start-line="34" selection-start-column="195" selection-end-line="34" selection-end-column="195" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="400" y="22" key="#MainApp" timestamp="1588101330131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#MainApp/0.0.1366.728@0.0.1366.728" timestamp="1588101330131" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588361838281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588361838281" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588190913417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588190913417" />
+    <state width="1323" height="498" key="GridCell.Tab.0.bottom" timestamp="1588364949495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="498" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588364949495" />
+    <state width="1323" height="498" key="GridCell.Tab.0.center" timestamp="1588364949495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="498" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588364949495" />
+    <state width="1323" height="498" key="GridCell.Tab.0.left" timestamp="1588364949494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="498" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588364949494" />
+    <state width="1323" height="498" key="GridCell.Tab.0.right" timestamp="1588364949495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="498" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588364949495" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1588362196689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1588362196689" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1588365363677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588365363677" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588361377714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588361377714" />
   </component>
   <component name="masterDetails">
     <states>
