@@ -1,5 +1,6 @@
 package co.mz.osoma.editor.service;
 
+import co.mz.osoma.editor.controlador.AddQuestionController;
 import co.mz.osoma.editor.controlador.MainGUIController;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.layout.Pane;
@@ -41,6 +42,7 @@ public class PaneFactory {
                 e.printStackTrace();
             }
         }
+
 
         if(object instanceof Question){
             try {

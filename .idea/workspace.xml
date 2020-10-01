@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3372d9b-354d-4581-9685-b34bb3bacd92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/ExamPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/ExamPaneController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/MainGUIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/MainGUIController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/controlador/RootPaneController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/service/MyTreeCell$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/mz/osoma/editor/service/MyTreeCell$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/PaneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor/service/PaneFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +38,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587553037163" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/co/mz/osoma/editor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="co.mz.osoma.editor" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OSOMA-EDITOR\src\main\java\co\mz\osoma\editor" />
+      <recent name="E:\OSOMA-EDITOR\src\main\java" />
       <recent name="C:\Users\user\IdeaProjects\OsomaEditor" />
       <recent name="C:\Users\user\IdeaProjects\OsomaEditor\src\main\resources\co\mz\osoma\editor" />
       <recent name="C:\Users\user\IdeaProjects\OsomaEditor\src\main\resources" />
-      <recent name="C:\Users\user\IdeaProjects\OsomaEditor\src\main\java" />
     </key>
   </component>
   <component name="RunManager">
@@ -89,74 +89,55 @@
       <updated>1587465877379</updated>
       <workItem from="1587465881006" duration="21466000" />
       <workItem from="1587562791654" duration="927000" />
-      <workItem from="1590009728209" duration="777000" />
+      <workItem from="1590009728209" duration="995000" />
+      <workItem from="1590587145791" duration="82000" />
+      <workItem from="1601372839357" duration="610000" />
+      <workItem from="1601473333101" duration="537000" />
+      <workItem from="1601491782245" duration="594000" />
+      <workItem from="1601497978771" duration="2729000" />
     </task>
+    <task id="LOCAL-00001" summary="q">
+      <created>1590010559311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590010559311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="22" key="#MainApp" timestamp="1588101330131">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601500716412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="400" y="22" key="#MainApp/0.0.1366.728@0.0.1366.728" timestamp="1588101330131" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590009866238">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601500716412" />
+    <state x="484" y="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601500254868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590009866238" />
-    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590009842622">
+    <state x="484" y="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1601500254868" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1601501262471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1590009842622" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1590010089724">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601501262471" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1601501262470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590010089724" />
-    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1590009827643">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601501262470" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1601501262470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590009827643" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1590010237123">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601501262470" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1601501262470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590010237123" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1590010237122">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590010237122" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1590010237122">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590010237122" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1590010237123">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590010237123" />
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1588362196689">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1588362196689" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1588365363677">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588365363677" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1588361377714">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588361377714" />
-    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590010131275">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590010131275" />
-    <state x="391" y="166" key="git4idea.merge.GitPullDialog" timestamp="1590010222363">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1590010222363" />
-    <state x="513" y="157" key="svn.repositoryBrowser" timestamp="1590010174824">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="513" y="157" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1590010174824" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601501262470" />
   </component>
   <component name="masterDetails">
     <states>
